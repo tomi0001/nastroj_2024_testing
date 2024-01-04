@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/nastroj_2021/public/js/pageSetting.js</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Planned_drug.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Http/Controllers/Settings/SettingsProductController.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Main/showAll.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Search/Product/searchResultDrugsGroupDay.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Settings/Product/changeLoadPlaned.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/config/app.php</file>
+            <file>file:/var/www/html/nastroj_2021/config/view.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Mood.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Main/showDrugs.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Main/showMood.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Settings/main.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Usee.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Moods_action.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Http/Services/Product.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Action_plan.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/ajax/showAverage.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/public/styles/default/css/Common700.css</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Main/showMenu.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Layout/Main.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Layout/Search.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Product.php</file>
+            <file>file:/var/www/html/nastroj_2021/public/jquery-3.6.3.js</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Main/main.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Action.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/ajax/showDescriptionDrugs.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/public/js/pageSearch.js</file>
+            <file>file:/var/www/html/nastroj_2021/.env</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Description.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Search/Product/searchDrugs.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Http/Services/Mood.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Group.php</file>
+            <file>file:/var/www/html/nastroj_2021/public/styles/default/css/pageSearchwidth1810.css</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Settings/Product/PlanedDrug.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/ajax/showDrugs.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Layout/SelectSearch.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Http/Controllers/Main/MainController.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/ajax/sumAverage.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/public/styles/default/css/Common1810.css</file>
+            <file>file:/var/www/html/nastroj_2021/public/js/pageMain.js</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/ajax/showTypyPortion.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Search/Product/searchResultDrugsSumDay.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Actions_day.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Search/Product/searchResultDrugs.blade.php</file>
+            <file>file:/var/www/html/nastroj_2021/app/Models/Substance.php</file>
+            <file>file:/var/www/html/nastroj_2021/resources/views/Users/Search/Product/showAllSubstanceMood.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

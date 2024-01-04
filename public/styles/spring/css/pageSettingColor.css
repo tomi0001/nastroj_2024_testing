@@ -1,0 +1,227 @@
+        button.danger:hover {
+                background-color: #F92900;
+                color: white;
+                border-color: #C29713;
+          
+             
+        }  
+                input.danger,button.danger {
+            box-shadow: 6px 6px 6px #F4E375;
+            background-color: red;
+            color: white;
+        }
+                input,button.main {
+                
+          
+                color: white;
+           
+           
+        }
+        div.groupMainselected {
+    background-color: #435041;
+  
+    color: #CDE1F3;
+
+}
+div.groupMainAllGroup {
+    background-color: #627968;
+ 
+    color: #CDE1F3;
+ 
+}
+
+
+
+        div.substanceMainselected {
+    background-color: #435041;
+  
+    color: #CDE1F3;
+
+}
+div.SubstanceMainAllSubstance {
+    background-color: #627968;
+ 
+    color: #CDE1F3;
+ 
+}
+
+        button.main:hover {
+                
+                color: white;
+                border-color: #C29713;
+        
+        }
+div.titleSettings {
+
+
+        color: #50E6F0;
+        -webkit-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+-moz-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+background-color: rgba(52, 128, 71, 1);
+background-image: radial-gradient(circle, rgba(52, 128, 71, 1) 20%, rgba(5, 57, 52, 1) 100%);
+    }
+    
+        div.titleSettingsMood {
+
+        color: #F8FC02;
+        -webkit-box-shadow: 0px 0px 25px -5px #1d5414;
+-moz-box-shadow: 0px 0px 25px -5px #1d5414;
+box-shadow: 0px 0px 25px -5px #1d5414;
+background-color: rgba(128, 120, 16, 1);
+background-image: radial-gradient(circle, rgba(28, 126, 51, 1) 7%, rgba(89, 154, 69, 1) 52%);
+    }
+    div.titleSettingsDrugs {
+
+        color: #d8eed5;
+        -webkit-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+-moz-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+background-color: rgba(66, 183, 19, 1);
+background-image: radial-gradient(circle, rgb(93, 112, 106) 0%, rgba(143, 173, 163, 1) 58%);
+    }   
+    div.titleSettingsUser {
+
+       color: #A9F3E2;
+        -webkit-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+-moz-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+background-color: rgba(16, 107, 72, 1);
+background-image: radial-gradient(circle, rgba(16, 107, 72, 1) 0%, rgba(8, 49, 49, 1) 58%);
+    }
+    div.selectedMenu {
+       color: #FEA043;
+        -webkit-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+-moz-box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+box-shadow: 0px 0px 25px -5px rgba(47, 88, 28, 1);
+background-color: rgba(167, 43, 17, 1);
+background-image: radial-gradient(circle, rgba(167, 43, 17, 1) 0%, rgba(235, 6, 0, 1) 58%);
+border: 2px solid #C10804; 
+font-weight: bold;
+    }
+    
+        div.pageMood {
+                color: #F8FC02;
+-webkit-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+background-color: rgba(100, 163, 51, 1);
+
+    }
+        .bodyMoodPage {
+                        color: white;
+-webkit-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+background-color: rgba(100, 163, 51, 0.6);
+    }
+    .bodyDrugsPage {
+-webkit-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+background-color: #bcddb8;
+    }
+    div.pageDrugs {
+                color: #F8FC02;
+-webkit-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+background-color: rgb(171 221 173 / 84%);
+    }
+
+        div.hrefMood {
+             color: #fffbca;
+-webkit-box-shadow: 0px 0px 10px 9px rgba(111, 101, 1, 1);
+-moz-box-shadow: 0px 0px 10px 9px rgba(111, 101, 1, 1);
+box-shadow: 0px 0px 10px 9px #558627;
+background-color: rgba(136, 136, 13, 1);
+background-image: linear-gradient(180deg, #92e644 14%, #44a33f 80%);
+    }
+        div.hrefDrugs {
+             color: #c0e9c0;
+-webkit-box-shadow: 0px 0px 10px 9px rgb(65 90 45);
+-moz-box-shadow: 0px 0px 10px 9px rgb(65 90 45);
+box-shadow: 0px 0px 10px 9px rgb(65 90 45);
+background-color: rgba(53, 136, 10, 1);;
+background-image: linear-gradient(180deg, rgb(78 92 70) 49%, rgb(176 195 141) 86%);
+    }
+    div.selectedMenuMoodHref {
+                    color: #E0FD01;
+-webkit-box-shadow: inset 0px 0px 16px 0px rgba(101, 54, 1, 1);
+-moz-box-shadow: inset 0px 0px 16px 0px rgba(101, 54, 1, 1);
+box-shadow: inset 0px 0px 16px 0px rgba(101, 54, 1, 1);
+background-color: rgba(175, 53, 38, 1);
+background-image: linear-gradient(90deg, rgba(175, 53, 38, 1) 14%, rgba(171, 120, 111, 1) 80%);
+    }
+    
+    td.tdColorMood {
+        color: #bffdd1;
+    }
+    td.tdColorDrugs {
+        color: #016916;
+    }
+            .titleMoodSettings {
+            color: #3e5c31;
+        background-color: rgba(87, 88, 2, 1);
+background-image: linear-gradient(180deg, #62ff62 0%, rgba(100, 163, 51, 1) 100%);
+
+    }
+            .titleDrugsSettings {
+            color: #c9f5d2;
+background-color: rgba(1, 55, 4, 1);
+background-image: linear-gradient(180deg, rgb(67 82 68) 0%, #ccedc8 100%);
+
+    }
+.errorForm {
+  border-color: red;
+  box-shadow: inset 0 1px 1px rgb(200, 54, 54), 0 0 8px rgb(200, 54, 54);
+}
+
+div.plusButton {
+    background-color: #60CEF0;
+}
+div.minusButton {
+    background-color: #F76868;
+}
+
+        .bodyUserPage {
+                        color: #878507;
+-webkit-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+background-color:  #3A7980;
+    }
+    
+            div.pageUser {
+                color: #F8FC02;
+-webkit-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+-moz-box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+box-shadow: 0px 0px 22px -9px rgba(66, 68, 90, 1);
+background-color: #3A7980;
+
+    }
+    
+        .titleUserSettings {
+         color: #77CDD0;
+        background-color: rgba(0, 49, 74, 1);
+background-image: linear-gradient(180deg, rgba(0, 49, 74, 1) 21%, rgba(58, 121, 128, 1) 100%);
+    }
+    
+        div.hrefUsers {
+                    color: #d5ce92;
+
+-webkit-box-shadow: 0px 0px 39px -8px rgba(12, 12, 9, 1);
+-moz-box-shadow: 0px 0px 39px -8px rgba(12, 12, 9, 1);
+box-shadow: 0px 0px 39px -8px rgba(12, 12, 9, 1);
+background-color: rgba(68, 113, 134, 1);
+background-image: linear-gradient(180deg, rgba(68, 113, 134, 1) 0%, rgba(13, 22, 49, 1) 100%);
+    }
+    
+        div.selectedMenuUsersHref {
+                    color: #fff1bf;
+-webkit-box-shadow: 0px 0px 27px 0px rgba(15, 17, 47, 1);
+-moz-box-shadow: 0px 0px 27px 0px rgba(15, 17, 47, 1);
+box-shadow: 0px 0px 27px 0px rgba(15, 17, 47, 1);
+background-color: rgba(85, 177, 224, 1);
+background-image: radial-gradient(circle, rgba(85, 177, 224, 1) 0%, rgba(7, 35, 123, 1) 100%);
+    }

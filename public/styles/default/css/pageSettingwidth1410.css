@@ -1,0 +1,222 @@
+@media (min-width: 1410px) and (max-width: 1810px) {
+          div.titleSettings {
+
+        width: 55%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        font-size: 35px;
+        min-height: 100px;
+        padding-top: 20px;
+        border-radius: 25px;
+
+    }
+    
+    
+
+    div.titleSettingsAll {
+        margin: 20px;
+        width: 30%;
+        text-align: center;
+        min-height: 50px;
+        padding-top: 11px;
+        border-radius: 15px;
+        background-color: red;
+    }
+    div.titleAllSettings {
+        width: 100%;
+
+    }
+    
+    div.pagepage {
+        
+        
+    
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 25px;
+        clear: both;
+        
+    }
+    div.pagepagepage {
+        padding: 20px;
+        padding-left: 45px;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 25px;
+        clear: both;
+    }
+    #addNewAction {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px;
+        
+        
+    }
+    #addNewDoctor {
+         min-height: 200px;
+        width: 900px;
+        margin-top: 15px;
+        
+    }
+    #levelMoodAdd {
+        min-height: 200px;
+        width: 1100px;
+        margin-top: 15px;
+        
+        
+    }
+            div.scroll {
+            overflow-y: scroll; 
+            height:280; 
+
+        }
+        div.groupMain {
+
+    margin: 10px;
+    padding: 7px;
+
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor:pointer;
+}
+        div.substanceMain {
+
+    margin: 10px;
+    padding: 7px;
+
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor:pointer;
+}
+        .main {
+                
+                border: solid 1px transparent;
+                
+                padding-top: 10px;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-bottom: 10px;
+                width: 110px;
+             
+                border-radius: 12px;
+                height: 46px;
+                text-align: center;
+                display: inline-block;
+                font-size: 18px;
+                font-weight: bold;
+              
+        }
+        
+    #changeNameActionChange {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px;
+    }
+    #changeDateActionChange {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px;
+    }
+    #addNewGroup {
+       min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    #addNewProduct {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    #addNewSubstance {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    #editGroupSet {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    #editSubstanceSet {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    #planedDoseSet {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    #editProductSet {
+        min-height: 200px;
+        width: 900px;
+        margin-top: 15px; 
+    }
+    .titleMoodSettings {
+
+        border-radius: 20px 20px 0px 0px;
+        text-align: center;
+        min-height: 30px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .titleUserSettings {
+        border-radius: 20px 20px 0px 0px;
+        text-align: center;
+        min-height: 30px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .titleDrugsSettings {
+        border-radius: 20px 20px 0px 0px;
+        text-align: center;
+        min-height: 30px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    div.pageMood {
+        min-height: 110px;
+        width: 900px;
+    }
+    div.pageUser {
+        min-height: 110px;
+        width: 900px;
+    }
+    div.pageDrugs {
+        width: 1150px;
+        min-height: 200px;
+    }
+    div.hrefMood {
+        float: left;
+        margin: 15px;
+        padding: 10px;
+        border-radius: 20px;
+    }
+    div.hrefUsers {
+        float: left;
+        margin: 15px;
+        padding: 10px;
+        border-radius: 20px;
+    }
+    div.hrefDrugs {
+        float: left;
+        margin: 15px;
+        padding: 10px;
+        border-radius: 20px;
+    }
+    div.downPage {
+        clear: both;
+    }
+    div.bodyPage {
+        padding: 25px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    
+    
+}

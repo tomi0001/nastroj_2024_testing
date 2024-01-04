@@ -1,0 +1,691 @@
+body {
+    background-image: url('../tlo.png'); /* from http://subtlepatterns.com */
+
+}
+
+            #MainPage {
+
+                background-color: rgba(59, 68, 3, 0.6);
+
+
+            }
+
+                    .mood {
+            background-color: rgba(49, 44, 35, 1);
+            color: white;
+
+
+        }
+                            .user {
+            background-color:  rgba(7, 73, 76, 1);
+            color: white;
+
+
+        }
+        table.actionShow {
+
+    background-color: #507e88;
+    color: #034053;
+
+    border: 2px solid #0E5970;
+}
+td.boldTitle {
+
+    color: #020F3A;
+
+    background-color: #0f89df;
+}
+thead.titleTheadAction {
+
+    background-color: #00879d;
+}
+       td.tdAction {
+
+            border-right: 2px solid #01343c;
+
+
+        }
+                div.sumDrugs {
+
+            background-color: rgba(14, 74, 3, 1);
+
+
+        }
+                div.positionDrugs {
+
+            background-color: rgba(61, 109, 72, 1);
+
+            color: #CFF5CA;
+
+        }
+        div.positionDrugsDose {
+            background-color: rgba(96, 179, 113, 1);
+
+            color: #CFF5CA;
+        }
+                div.errorMainMessage {
+            color: white;
+
+            background-color: red;
+
+            box-shadow: 6px 0  20px 8px rgba(127, 15, 15, 0.8);
+
+        }
+        .sleep {
+            background-color: #2a053d;
+            color: white;
+
+        }
+        .drugs {
+            background-color: rgba(14, 74, 3, 1);
+            color: white;
+
+        }
+        .day {
+            background-color: #E79959;
+            color: white;
+        }
+        .action {
+            background-color: rgba(42, 107, 102, 1);
+            color: white;
+
+
+        }
+                a.menu {
+            color: white;
+
+        }
+        a.menu:hover {
+            text-decoration: underline;
+            color: #E9BA10;
+        }
+
+        .btn-success {
+                background-color: #B87A0D !important;
+                border-color: #6E791A !important;
+
+        }
+        .btn-success:hover {
+                background-color: yellow !important;
+                border-color: #C29713 !important;
+
+        }
+        .btn-primary {
+                background-color: #9D1AD5 !important;
+                border-color: #6E791A !important;
+
+        }
+        .btn-primary:hover {
+                background-color: #5A047F !important;
+                border-color: #C29713 !important;
+
+        }
+
+                                    .btn-user {
+        border-color: #ada184;
+
+                color: white;
+
+                box-shadow: 6px 6px 6px #3a3527;
+
+
+        }
+        .btn-user:hover  {
+                background-color: #153E80;
+                color: white;
+                border-color: #C29713;
+
+        }
+        .btn-mood {
+
+
+                border-color: #ada184;
+
+                color: white;
+
+                box-shadow: 6px 6px 6px #3a3527;
+
+        }
+        .btn-mood:hover  {
+                background-color: #ada184;
+                color: white;
+                border-color: #C29713;
+
+        }
+        .btn-sleep {
+                background-color: #2a053d;
+
+                border-color: #2a053d;
+
+                color: white;
+
+                box-shadow: 6px 6px 6px #2a053d;
+        }
+        .btn-sleep:hover  {
+                background-color: #ada184;
+                color: white;
+                border-color: #d1aa4a;
+
+        }
+
+
+        .btn-action {
+                background-color: #15536f;
+
+                border-color: #6E791A;
+
+                color: white;
+
+                box-shadow: 6px 6px 6px rgba(42, 121, 163, 0.3);
+        }
+        .btn-action:hover  {
+                background-color: #229fd6;
+                color: white;
+                border-color: #C29713;
+
+        }
+
+        .btn-drugs {
+                background-color: #37742c;
+
+                border-color: #A7D416;
+
+                color: white;
+
+
+
+        }
+        .btn-drugs:hover  {
+                background-color: #37ab23;
+                color: white;
+                border-color: yellow;
+
+        }
+
+        div.ajaxError {
+
+            background-color: red;
+            color: white;
+
+}
+div.ajaxSucces {
+
+            background-color: #5BAC0B;
+
+            color: white;
+
+}
+
+div.level {
+
+        box-shadow: 0 0 8px 2px #5C5B04;
+
+}
+div.level-10 {
+
+    background-color: #15190f;
+
+    color: black;
+
+
+}
+div.levelSleep {
+        background-color: #2a053d;
+
+
+    color: black;
+}
+div.level-9 {
+
+    background-color: #242423;
+
+
+
+    color: black;
+}
+div.level-8 {
+
+    background-color: #41403F;
+
+
+    color: black;
+}
+div.level-7 {
+
+    background-color: #5C5B59;
+
+
+    color: black;
+}
+div.level-6 {
+
+    background-color: #72716F;
+
+
+    color: black;
+}
+
+div.level-5 {
+
+    background-color: #868273;
+
+
+    color: black;
+}
+div.level-4 {
+
+    background-color: #979F87;
+
+
+    color: black;
+}
+
+div.level-3 {
+
+    background-color: #A8B298;
+
+
+    color: black;
+}
+div.level-2 {
+
+    background-color: #C3CCB5;
+
+
+    color: black;
+}
+div.level-1 {
+
+    background-color: #CFCBB5;
+
+
+    color: black;
+}
+div.level0 {
+
+    background-color: white;
+
+
+    color: black;
+}
+div.level1 {
+
+    background-color: #f6f9ac;
+
+    color: black;
+}
+div.level2 {
+
+    background-color: #f5f988;
+
+    color: black;
+}
+div.level3 {
+
+    background-color: #dfe365;
+
+
+    color: black;
+
+}
+div.level4 {
+
+    background-color: #e5ea50;
+
+
+    color: black;
+}
+div.level5 {
+
+    background-color: #d8de3b;
+
+
+    color: black;
+}
+div.level6 {
+
+    background-color: #cdd410;
+
+
+    color: black;
+}
+div.level7 {
+
+    background-color: #999f00;
+
+
+    color: black;
+}
+div.level8 {
+
+    background-color: #9ae021;
+
+
+    color: black;
+}
+div.level9 {
+
+    background-color: #84c80f;
+
+
+    color: black;
+}
+div.level10 {
+
+    background-color: #08F608;
+
+
+    color: black;
+}
+     span.MessageError {
+            color: #FB0303;
+
+        }
+                button:disabled, button.disable {
+                            background-color: #D92A2A;
+
+                border-color: #32370f;
+
+                color: white;
+
+                box-shadow: 6px 6px 6px #32370f;
+
+        }
+        div.descriptionModShowMood {
+    background-color: #6D6D21;
+
+    color: white;
+
+}
+        div.titleActionShowAjax {
+            background-color: #0c3b81;
+
+
+        }
+        div.titleDrugsShowAjax {
+            background-color: #0b7015;
+
+        }
+        td.titleAction {
+        background-color: #084071;
+
+
+
+}
+       div.positionAction {
+
+            color: #3F5B0B;
+
+        }
+        div.leveAction0 {
+    background-color:  #969682;
+}
+div.leveAction1 {
+    background-color: #BBBCA9;
+}
+div.leveAction2 {
+    background-color: #BCBCBC;
+}
+div.leveAction3 {
+    background-color: #CCCBB7;
+}
+div.leveAction4 {
+    background-color: #EAEAE3;
+}
+div.leveAction5 {
+    background-color: #E9EAD7;
+}
+div.leveAction6 {
+    background-color: #F7F7EA;
+}
+div.leveAction7 {
+    background-color: #F4F2BA;
+}
+div.leveAction8 {
+    background-color: #F2EF9D;
+}
+div.leveAction9 {
+    background-color: #F7F981;
+}
+div.leveAction10 {
+    background-color: #F9DE54;
+}
+
+td.titleDrugs {
+        background-color: #71bd79;
+
+
+
+}
+
+
+.drugssShowModShow {
+        background-color: #4f8e55;
+
+-webkit-box-shadow: 0px 0px 18px 1px #235902;
+-moz-box-shadow: 0px 0px 18px 1px #235902;
+box-shadow: 0px 0px 18px 1px #235902;
+}
+.actionShowModShow {
+    background-color: #2962b6;
+
+-webkit-box-shadow: 0px 0px 18px 1px rgba(10, 44, 105, 1);
+-moz-box-shadow: 0px 0px 18px 1px rgba(10, 44, 105, 1);
+box-shadow: 0px 0px 18px 1px rgba(10, 44, 105, 1);
+}
+div.cellBorder {
+
+    box-shadow: 0px 0px 4px 3px rgba(64,66,29,0.47);
+}
+div.cell100 {
+
+    background-color: #A55188;
+
+
+
+}
+div.cell-10 {
+
+    background-color: #15190f;
+
+
+
+}
+        div.cell100000 {
+
+            background-color: #6AC5E0;
+
+
+        }
+div.cell-9 {
+
+    background-color: #242423;
+
+
+}
+div.cell-8 {
+
+    background-color: #41403F;
+
+
+
+}
+div.cell-7 {
+
+    background-color: #5C5B59;
+
+
+
+}
+div.cell-6 {
+
+    background-color: #72716F;
+
+
+
+}
+
+div.cell-5 {
+
+    background-color: #868273;
+
+
+
+}
+div.cell-4 {
+
+    background-color: #979F87;
+
+
+}
+
+div.cell-3 {
+
+    background-color: #A8B298;
+
+
+}
+div.cell-2 {
+
+    background-color: #C3CCB5;
+
+
+
+}
+div.cell-1 {
+
+    background-color: #E2E3C3;
+
+
+
+}
+div.cell0 {
+
+    background-color: white;
+
+
+
+}
+div.cell1 {
+
+    background-color: #F4F7B4;
+
+
+
+}
+div.cell2 {
+
+    background-color: #EEF395;
+
+
+
+}
+div.cell3 {
+
+    background-color: #F2F683;
+
+
+
+}
+div.cell4 {
+
+    background-color: #EFF66E;
+
+
+
+}
+div.cell5 {
+
+    background-color: #F2FA50;
+
+
+
+}
+div.cell6 {
+
+    background-color: #F4FF23;
+
+
+
+}
+div.cell7 {
+
+    background-color: #CAFB26;
+
+}
+div.cell8 {
+
+    background-color: #A8EB2D;
+
+}
+div.cell9 {
+
+    background-color: #A7F400;
+
+
+}
+div.cell10 {
+
+    background-color: #39F400;
+
+}
+
+table.moodShow, td.showMood, td.moodButton {
+   border: 2px solid #393922;
+   color: #dee5e6;
+
+
+}
+table.drugsShow, td.showDrugs, td.drugsButton {
+    border: 2px solid #0c5204;
+
+
+}
+table.drugsShow, td.drugsShow, td.drugsButton {
+   border: 2px solid #0C5204;
+
+
+}
+table.showAction, td.showAction, td.showAction {
+    border-top: 5px solid #012936;
+
+}
+table.actionShowIdMood {
+
+
+    color: white;;
+
+
+
+}
+table.moodShow {
+
+background-color: rgba(140, 140, 103, 0.89);
+    color: #dee5e6;
+
+}
+td.showMood {
+    border-top: 5px solid #393922;
+
+}
+td.showDrugs {
+    border-top: 5px solid #626222;
+
+}
+td.showAction {
+    border-top: 5px solid #012936;
+
+}
+td.showdrugs {
+    border-top: 5px solid #0C5204;
+}
+td.titleTheadMood {
+
+  background-color: #515543;
+
+}
+td.titleTheadDrugs {
+
+    background-color: #8dc882;
+
+}

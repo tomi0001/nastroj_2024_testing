@@ -1,0 +1,38 @@
+button.btn-login {
+               border: solid 1px transparent;
+                
+                padding-top: 10px;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-bottom: 10px;
+                width: 300px;
+            
+                border-radius: 12px;
+                height: 70px;
+                text-align: center;
+                display: inline-block;
+                font-size: 22px;
+                font-weight: bold;
+-webkit-box-shadow: 0px 0px 6px 3px rgba(43, 30, 6, 1);
+-moz-box-shadow: 0px 0px 6px 3px rgba(43, 30, 6, 1);
+box-shadow: 0px 0px 6px 3px rgba(43, 30, 6, 1);
+}
+button.btn-login:hover {
+            border: solid 1px transparent;
+                
+                padding-top: 10px;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-bottom: 10px;
+                width: 300px;
+                
+                border-radius: 12px;
+                height: 70px;
+                text-align: center;
+                display: inline-block;
+                font-size: 22px;
+                font-weight: bold;
+-webkit-box-shadow: 0px 0px 6px 3px rgba(43, 30, 6, 1);
+-moz-box-shadow: 0px 0px 6px 3px rgba(43, 30, 6, 1);
+box-shadow: 0px 0px 6px 3px rgba(43, 30, 6, 1);
+}

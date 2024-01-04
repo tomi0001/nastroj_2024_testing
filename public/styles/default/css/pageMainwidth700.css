@@ -1,0 +1,485 @@
+@media (min-width: 700px) and (max-width: 1210px) { 
+        #calendar {
+        width: 100%;
+    }
+        div.menuMood {
+           width: 25%;
+           margin-left: 1px;
+           margin-right: 1px;
+           text-align: center;
+           font-size: 22px;
+
+           border-radius: 25px 25px 0px 0px;
+           cursor:pointer;
+
+           
+
+        }
+          input {
+        height: 42px;
+        
+    }
+            div.linkShow {
+           
+            width: 550px;
+            text-align: center;
+            height: 65px;
+            margin: 7px;
+            padding-top: 13px;
+            font-size: 22px;
+            border-radius: 20px;
+          
+            font-weight: bold;
+            float: left;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+        div.showLink {
+            width: 550px;
+            height: 250px;
+            margin-left: auto;
+            margin-right: auto;
+            clear: both;
+            
+            
+        }
+        div.sumDrugs {
+            margin: 10px;
+           width: 700px;
+            height: 200px;
+            
+            border-radius: 20px;
+            padding: 22px;
+            margin-left: auto;
+            margin-right: auto;    
+           
+        }
+                div.sumAction {
+                    margin: 10px;
+           width: 700px;
+            height: 200px;
+            border-radius: 20px;
+            padding: 22px;
+            margin-left: auto;
+            margin-right: auto;       
+        }
+div.hiddenMoodEdit {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    min-height: 220px;;
+    text-align: center;
+  
+}
+div.actionMain {
+
+    margin: 10px;
+    padding: 7px;
+
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor:pointer;
+}
+        div.NotShow {
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+            height: 70px;
+            font-size: 27px;
+            text-align: center;
+            padding-top: 14px;
+            margin-top: 10px;
+            border-radius: 20px;
+            box-shadow: 5px 5px 4px 1px #5B7235;
+            color: white;
+      
+        }
+div.actionMainselected {
+
+    margin: 10px;
+    padding: 7px;
+    color: #CDE1F3;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor:pointer;
+}
+
+     td.moodadd {
+                   
+
+    
+        font-size: 26px;
+    }
+            div.menuSelectAddMain {
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            display:flex;
+            padding-left: 2%;
+            padding-right: 2%;
+            
+                
+        }
+            button.calendar {
+               
+                border: solid 1px transparent;
+                border-color: #6E791A;
+                padding-top: 13px;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-bottom: 13px;
+                width: 230px;
+              
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 19px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+        }
+        button.calendar:hover {
+              
+                border-color: #C29713;
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 19px;
+                font-weight: bold;
+        }
+            div.scroll {
+            overflow-y: scroll; 
+            height:280; 
+            max-width: 380px;
+        }
+            table.kalendar {
+
+            opacity: none;
+        border-spacing: 1px;
+        border-collapse: separate;
+        width: 950px;
+        height: 620px;
+
+
+
+        }
+        div.formAddMood {
+            
+            border-radius: 17px 17px 17px 17px;
+        }
+        div.titleMood {
+                border-radius: 17px 17px 0px 0px;
+
+                width: 100%;
+                height: 42px;
+                padding-top: 6px;
+                padding-left: 4%;
+                font-size: 20px;
+
+                text-align: center;
+        }
+       tr:nth-child(6){ /* tr:nth-child(5):last-of-type */
+            height: 109px;
+        }
+        span.kalendar {
+            font-size: 20px;
+            
+        }
+        span.kalendarBig {
+            font-size: 25px;
+        
+        }
+        .btn-success {
+               
+                font-size: 19px !important;
+                font-weight: bold !important;
+        }
+        .btn-success:hover {
+                
+                font-size: 19px !important;
+                font-weight: bold !important;
+        }
+div.hiddenMood {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 30px;
+    text-align: center;
+}
+        .btn-mood {
+              
+                border: solid 1px transparent;
+               
+                padding-top: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+                padding-bottom: 10px;
+              
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 20px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+
+        }
+        button.main-long {
+                     border: solid 1px transparent;
+                
+                padding-top: 10px;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-bottom: 10px;
+                width: 150px;
+                border-radius: 12px;
+                height: 55px;
+                text-align: center;
+                display: inline-block;
+                font-size: 15px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+        }
+        button.main-long:hover {
+                
+                border-color: #C29713;
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 15px;
+                font-weight: bold;
+        }
+        .btn-mood:hover  {
+       
+                border-color: #C29713;
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+        .btn-sleep {
+                
+                border: solid 1px transparent;
+              
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+               
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+        }
+        .btn-sleep:hover  {
+                
+                border-color: #C29713;
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+        .btn-action {
+                
+                border: solid 1px transparent;
+            
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+                
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+
+        }
+        button:disabled, button.disable {
+                       
+                border: solid 1px transparent;
+               
+                padding-top: 5px;
+                padding-left: 5px;
+                padding-right: 10px;
+                padding-bottom: 10px;
+                width: 150px;
+                
+                border-radius: 12px;
+                height: 55px;
+                text-align: center;
+                cursor: default;
+                display: inline-block;
+                font-size: 18px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+                display:block;
+        }
+        button.main {
+                
+                border: solid 1px transparent;
+                
+                padding-top: 10px;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-bottom: 10px;
+                width: 150px;
+              
+                border-radius: 12px;
+                height: 55px;
+                text-align: center;
+                display: inline-block;
+                font-size: 18px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+        }
+        .btn-action:hover  {
+              
+            
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 18px;
+                font-weight: bold;
+        }
+        .btn-drugs {
+               
+                border: solid 1px transparent;
+                
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+            
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+
+        }
+        .btn-drugs:hover  {
+         
+               
+                border-color: yellow;
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+        div.cell_active {
+
+          
+            border-radius: 15px;
+            height: 100%;
+          
+            padding-top: 25%;
+            
+            
+
+        }
+        div.cell_selected {
+
+           
+            border-radius: 15px;
+            height: 100%;
+            padding-top: 25%;
+            cursor: pointer;
+            
+        }
+        div.cell10000 {
+          
+           
+            border-radius: 0 !important;
+            box-shadow: 0 0 0 0 !important;
+
+
+        }
+
+        div.divButton {
+            float: left;
+            padding: 10px;
+        }
+        div.divButtonBr {
+            clear: both;
+        }        
+        #showmood {
+            width: 93%;
+    
+            min-height: 350px;
+            border-radius: 25px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+     
+        .trCalendar {
+            height: 100px;
+
+        }
+        div.titleMood {
+            
+        }
+        .tdCalendar {
+            height: 100px;
+            width: 12%;
+        }
+
+            div.menu {
+            width: 20%;
+            
+            text-align: center;
+            font-weight: bold;
+            padding: 2px;
+
+            float: left;
+
+        }
+        a.menu {
+            
+            text-decoration: none;
+            font-size: 17px;
+        }
+        a.menu:hover {
+            text-decoration: underline;
+           
+        }
+        div.empty_menu {
+            width: 10%;
+            float: left;
+        }
+        button.calendar {
+               width: 80% !important;
+                height: 60px !important;
+        }
+        .nounderline {
+          text-decoration: none !important
+        }
+        
+        
+               div.lineAverage {
+            width: 65%;
+            height: 26px;
+            border-radius: 10px;
+            margin-left: auto;
+            margin-right: auto;
+              margin-bottom: 12px;
+              font-size: 17px;
+            
+        }
+        
+        
+}

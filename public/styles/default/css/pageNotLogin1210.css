@@ -1,0 +1,113 @@
+@media (min-width: 1210px) and (max-width: 1410px) { 
+            #MainPage {
+            width: 75%;
+
+            border: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 25px 25px 25px 25px;
+            min-height: 100%;
+        }
+        #PageMenu {
+            width: 96%;
+
+            margin-right: auto;
+            margin-left: auto;
+
+
+            height: 290px;
+
+            border-radius: 15px 15px 15px 15px;
+        }
+        div.menuMain {
+            width: 100%;
+            height: 90px;
+
+            font-size: 30px;
+            font-weight: bold;
+            font-family: 'Amita';
+            text-align: center;
+            padding: 10px;
+            padding-top: 2%;
+            border-radius: 25px 25px 25px 25px;
+
+
+        }
+
+
+        div.tableUser {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+
+
+        }
+        td.input_lg {
+            height: 70px;
+        }
+        td.buttonUser {
+            text-align: center;
+        }
+        .btn-primary {
+
+            width: 40% !important;
+            height: 60px !important;
+        }
+
+        div.titleRegister {
+            border-radius: 17px 17px 0px 0px;
+
+            width: 100%;
+            height: 42px;
+            padding: 5px;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+        }
+        div.titleUser {
+            border-radius: 17px 17px 0px 0px;
+
+            width: 100%;
+            height: 42px;
+            padding: 5px;
+            font-size: 20px;
+            font-weight: bold;
+            text-align: center;
+        }
+        td.tableRegister {
+            text-align: center;
+            font-size: 25px;
+
+        }
+        #PageRegister {
+            width: 96%;
+
+            margin-right: auto;
+            margin-left: auto;
+
+
+
+
+            border-radius: 15px 15px 15px 15px;
+        }
+        #PageLogin {
+            width: 96%;
+
+            margin-right: auto;
+            margin-left: auto;
+   
+            min-height: 100%;
+
+
+            border-radius: 15px 15px 15px 15px; 
+        }
+        #error {
+         
+            text-align: center;
+            font-weight: bold;
+        }
+
+    .nounderline {
+      text-decoration: none !important
+    }
+}

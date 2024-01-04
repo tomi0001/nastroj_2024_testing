@@ -1,0 +1,315 @@
+    div.titleAllSettings {
+        clear: both;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+
+    div.titleSettingsAll {
+        float: left;
+    }
+
+        .hrefSettingCursor {
+        cursor: pointer;
+    }
+div.dateSumDay {
+    height: 70px;
+    width: 33%;
+    float: left;
+    border-radius: 25px;
+
+}
+td.boldAction {
+    font-weight: bold;
+}
+div.titleWeek {
+    width: 100%;
+    height: 70px;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    margin: 0px;
+    float: left;
+}
+div.actionDay {
+    min-height: 70px;
+    padding: 20px;
+}
+    div.averageSumDiv {
+        width: 96%;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        border-radius: 20px;
+        padding: 12px;
+        display: none;
+
+
+    }
+    tr.borderTrAverageTitle {
+        border-width: 2px;
+        border-style: solid;
+
+
+    }
+    tr.borderTrAverage {
+        border-width: 2px;
+        border-style: solid;
+    }
+    .rightBorder {
+        border-right-width: 2px;
+        border-right-style: solid;
+    }
+
+div.dayWeekDivAverage {
+    border-radius: 23px;
+    padding: 4px;
+    height: 40px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    font-size: 21px;
+    font-width: bold;
+}
+div.dayWeekDivAverageOne {
+    border-radius: 23px;
+    padding: 2px;
+    height: 30px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    font-size: 17px;
+
+}
+
+
+    div.plusMinusButton {
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+}
+    div.descriptionDrugsShow {
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 25px;
+    }
+div.showAjaxDay {
+    float: left;
+    width: 100%;
+
+}
+div.hr {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 15px;
+    border-radius: 35px;
+}
+div.divAtButtonDay {
+    float: left;
+    
+}
+div.firstDiv {
+    clear: both;
+}
+div.secondDiv {
+    padding-top: 10px;
+    clear: both;
+}
+div.divActionSum {
+    width: 100%;
+}
+
+.dayMood {
+    width: 100%;
+    min-height: 23px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8px;
+    border-radius: 30px 30px 0px 0px;
+    font-size: 23px;
+    font-weight: bold;
+    float: left;
+    
+    padding: 10px; 
+    margin-bottom: 20px;
+
+}
+.dayMoodAverage {
+    width: 95%;
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8px;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.dayMoodEnd {
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8px;
+    border-radius: 0px 0px 30px 30px;
+    font-size: 23px;
+    font-weight: bold;
+}
+    .dayDrugs {
+        width: 100%;
+        min-height: 50px;
+        text-align: center;
+        margin-left: auto;
+
+        margin-right: auto;
+        padding-top: 8px;
+        border-radius: 30px 30px 0px 0px;
+        font-size: 23px;
+        font-weight: bold;
+
+    }
+    span.titleSearchSumDay {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    div.titleSearchSumDay {
+        border-radius: 17px 17px 0px 0px;
+    }
+    div.titleSearchSumDayMood {
+        border-radius: 17px 17px 0px 0px;
+    }
+    span.fontSearchSumDay {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .dayDrugsEnd {
+        width: 100%;
+        min-height: 50px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 8px;
+        border-radius: 0px 0px 30px 30px;
+        font-size: 23px;
+        font-weight: bold;
+    }
+div.moodSearchResult {
+    width: 95%;
+    border-radius: 30px;
+    border: 3px solid red;
+    margin: 30px;
+
+}
+div.drugsSearchResult {
+    width: 95%;
+    border-radius: 30px;
+    border: 3px solid red;
+    margin: 30px;
+}
+div.countSearch {
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    min-height: 40px;
+    margin-top: 30px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 3px;
+
+}
+div.titleSearchResult {
+    border-radius: 17px 17px 0px 0px;
+        width: 100%;
+        height: 52px;
+        padding-top: 6px;
+        padding-left: 4%;
+        font-size: 26px;
+        text-align: center;
+        padding: 0;
+        margin: 0;
+}
+div.actionSum {
+    overflow-y: scroll;
+    max-height: 500px;
+    margin: 10px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.actionSum::-webkit-scrollbar-track {
+
+  padding: 2px 0;
+  margin-right: 30px;
+
+}
+
+.actionSum::-webkit-scrollbar {
+  width: 10px;
+    padding-right: 30px;
+}
+
+.actionSum::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+    padding-right: 30px;
+
+}
+
+div.recordMoodGroupWeek {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+
+div.line {
+    min-height: 70px;
+}
+
+div.searchDrugsMoodDiv {
+       width: 96%;
+
+        margin-left: auto;
+        margin-right: auto;
+
+        border-radius: 20px;
+        padding: 12px;
+        display: none;
+}
+table.tableMoodDrugs {
+    width: 90%;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: separate;
+           border-spacing: 10px;
+    
+
+    
+}
+td.tdMoodDrugs {
+    width: 45%;
+    text-align: center;
+    
+    
+}
+td.tdMoodDrugsDose {
+    width: 22%;
+    text-align: center;
+}

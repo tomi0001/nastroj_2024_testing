@@ -1,0 +1,339 @@
+@media (min-width: 700px) and (max-width: 1210px) { 
+                #MainPage {
+                width: 100%;
+                
+                border: 20px;
+                border-radius: 25px 25px 25px 25px;
+                margin-left: auto;
+                margin-right: auto;
+
+                min-height: 100%;
+
+            }
+                            div.divButton {
+            float: left;
+            padding: 10px;
+        }
+                div.titleDrugsShowAjax {
+
+            border-radius: 17px 17px 0px 0px;
+            min-height: 22px;
+        }
+        
+                        div.sumDrugs {
+           width: 400px;
+            height: 200px;
+
+            border-radius: 20px;
+            padding: 22px;
+            margin-left: auto;
+            margin-right: auto;    
+           
+        }
+                 div.hiddenMood {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    text-align: center;
+}
+        #menuMain{
+                border-radius: 17px 17px 0px 0px;
+
+                width: 100%;
+                height: 42px;
+                padding-top: 6px;
+                padding-left: 4%;
+                font-size: 20px;
+
+                text-align: center;
+            }
+        div.sumMood {
+            width: 700px;
+            height: 200px;
+           
+            border-radius: 20px;
+            padding: 22px;
+            margin: 9px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #PageMenu {
+            width: 96%;
+
+            margin-right: auto;
+            margin-left: auto;
+
+
+            height: 290px;
+
+            border-radius: 15px 15px 15px 15px;
+        }
+            div.menu {
+            width: 20%;
+         
+            text-align: center;
+            font-weight: bold;
+            padding: 2px;
+
+            float: left;
+
+        }
+        a.menu {
+      
+            text-decoration: none;
+            font-size: 17px;
+        }
+        a.menu:hover {
+            text-decoration: underline;
+            
+        }
+        div.empty_menu {
+            width: 10%;
+            float: left;
+        }
+        div.empty_menuDr {
+            width: 18%;
+            float: left;
+        }
+
+                    button.main:hover {
+                
+                
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 18px;
+                font-weight: bold;
+        }
+        button.main-long {
+                     border: solid 1px transparent;
+                
+                padding-top: 10px;
+                padding-left: 5px;
+                padding-right: 5px;
+                padding-bottom: 10px;
+                width: 150px;
+      
+                border-radius: 12px;
+                height: 55px;
+                text-align: center;
+                display: inline-block;
+                font-size: 15px;
+                font-weight: bold;
+             
+        }
+        button.main-long:hover {
+         
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 15px;
+                font-weight: bold;
+        }
+        button.small {
+            height: 40px;
+            width: 100px;
+            font-size: 14px;
+            padding-top: 8px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+        }
+
+        button.small:hover {
+                
+                
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 14px;
+                font-weight: bold;
+        }
+        input.main,button.main {
+                border: solid 1px transparent;
+                
+                
+                
+                
+                border-radius: 12px;
+                
+                text-align: center;
+                display: inline-block;
+                
+                font-weight: bold;
+                
+        }
+        input.main,button.danger:hover {
+
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+             
+        }
+        button:disabled, button.disable {
+                  
+                border: solid 1px transparent;
+
+                padding-top: 5px;
+                padding-left: 5px;
+                padding-right: 10px;
+                padding-bottom: 10px;
+                width: 150px;
+
+                border-radius: 12px;
+                height: 55px;
+                text-align: center;
+                cursor: default;
+                display: inline-block;
+                font-size: 18px;
+                font-weight: bold;
+                box-shadow: 6px 6px 6px #F4E375;
+                display:block;
+        }
+         
+        .btn-mood {
+       
+                border: solid 1px transparent;
+
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+    
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+   
+
+        }
+        .btn-mood:hover  {
+       
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+        .btn-user {
+       
+                border: solid 1px transparent;
+
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+    
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+   
+
+        }
+        .btn-user:hover  {
+       
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+        .btn-sleep {
+  
+                border: solid 1px transparent;
+    
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+       
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+            
+        }
+        .btn-sleep:hover  {
+               
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+
+        
+        .btn-action {
+             
+                border: solid 1px transparent;
+     
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+       
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+                   
+        }
+        .btn-action:hover  {
+             
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+
+        .btn-drugs {
+        
+                border: solid 1px transparent;
+       
+                padding-top: 13px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 13px;
+
+                border-radius: 12px;
+                height: 65px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+             
+
+        }
+        .btn-drugs:hover  {
+          
+                border-radius: 12px;
+                text-align: center;
+                display: inline-block;
+                font-size: 24px;
+                font-weight: bold;
+        }
+        .nameAction {
+            
+            min-width: 500px;
+            max-width: 500px;
+        }
+        .hourAction {
+            min-width: 200px;
+            max-width: 200px;
+        }
+        .pleasureAction {
+            min-width: 200px;
+            max-width: 200px;
+        }
+}

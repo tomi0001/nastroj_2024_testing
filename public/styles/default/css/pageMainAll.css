@@ -1,0 +1,342 @@
+body {
+     height: 100%;
+}
+span.smallMenu {
+    font-size: 17px;
+}
+
+
+        div.hourPlan {
+            border-radius: 20px;
+
+            width: 50%;
+            text-align: center;
+
+
+            margin-bottom: 15px;
+        }
+
+
+
+                div.errorMainMessagesmall {
+
+            text-align: center;
+            padding-top: 18px;
+            font-size: 25px;
+
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10px;
+            height: 90%;
+
+            border-radius: 30px;
+        }
+
+
+#calendar {
+    
+
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+
+
+    div.bodyDiv {
+        border-radius: 17px 17px 17px 17px;
+       
+    }
+
+
+    
+
+        
+        
+        
+
+
+span.warning {
+
+    font-size: 18px;
+}
+input.percentExecuting {
+
+   
+}
+        div.titleMoodShow {
+                border-radius: 17px 17px 0px 0px;
+                
+            
+                width: 100%;
+                height: 52px;
+                padding-top: 6px;
+                padding-left: 4%;
+                font-size: 26px;
+   
+                text-align: center;  
+        }
+        div.titleActionShow {
+                border-radius: 17px 17px 0px 0px;
+                
+            
+                width: 100%;
+                height: 52px;
+                padding-top: 6px;
+                padding-left: 4%;
+                font-size: 26px;
+   
+                text-align: center;  
+        }
+div.descriptionModShowSleep {
+
+    border-radius: 25px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+div.centerPercent {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    float: center;
+    padding-bottom: 10px;
+
+     
+    
+    
+}
+
+
+div.moodSelected {
+
+           width: 21%;
+
+}
+
+
+
+div.typeOfPortion {
+    min-width: 90px;
+    min-height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 2px;
+
+}
+
+table.drugsShow {
+    margin: 10px;
+ 
+
+    width: 97%;
+}
+
+
+
+table.drugsShow, td.drugsShow, td.drugsButton {
+
+   border-collapse: collapse;
+
+}
+
+
+
+
+
+      
+        div.centerMood {
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+        }
+div.descriptionDrugsShow {
+ 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+}
+        div.linkSelected {
+          
+           cursor: default;
+        }
+
+
+
+
+
+
+span.fontMood {
+    font-size: 22px;
+}
+span.fontMoodNot {
+    font-size: 20px;
+
+}
+
+
+
+thead.titleTheadDrugs {
+        position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+
+}
+td.moodButton {
+    padding: 7px;
+    padding-bottom: 30px;
+
+    
+}
+
+table.tableCenter {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+    div.borderDrugs {
+
+        border-radius: 20px 20px 20px 20px;
+    }
+    div.borderMood {
+
+        border-radius: 20px 20px 20px 20px;
+    }
+
+    div.borderSleep {
+
+        border-radius: 20px 20px 20px 20px;
+    }
+    div.borderAction {
+
+        border-radius: 20px 20px 20px 20px;    
+    }
+    
+            .mood {
+
+             font-weight: bold;
+             
+        }
+        .sleep {
+   
+             font-weight: bold;
+        }
+        .drugs {
+
+             font-weight: bold;
+        }
+
+        .action {
+
+             font-weight: bold;
+            
+        }
+        
+
+
+
+
+        
+        span.MessageError {
+         
+            font-weight: bold;
+        }
+        
+  
+        
+        
+        div.sumAverage {
+            width: 70%;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 25px;
+            max-height: 400px;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            overflow-y: scroll; 
+ 
+        }
+        div.titleAverage {
+
+             border-radius: 25px 25px 0px 0px;
+                
+            
+                width: 100%;
+                height: 15px;
+                padding-top: 6px;
+                padding-left: 4%;
+                font-size: 26px;
+   
+                text-align: center;  
+        }
+        
+        div.averageDiv {
+            width: 70%;
+            height: 120px;
+            font-size: 17px;
+            border-radius: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 15px;
+            padding: 8px;
+            
+            
+        }
+        div.averageNr {
+            width: 65%;
+            margin-left: auto;
+            max-height: 25px;
+            margin-right: auto;
+            border-radius: 20px;
+            
+        }
+        
+
+        
+        div.hourAverage {
+            width: 100%;
+            
+        }
+        div.hourOneAverage {
+            width: 45%;
+            float: left;
+        }
+        
+        
+        div.how-type {
+            max-height: 30px;
+            
+            width: 60%;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 25px;
+        }
+        
+        div.descriptionAction {
+            border-radius: 25px;
+            width: 65%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10px;
+            padding: 9px;
+            font-size: 15px;
+        }
+        td.wakeUp {
+            width: 20%;
+        }
